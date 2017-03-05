@@ -1,0 +1,16 @@
+1488741705917	geckodriver	INFO	Listening on 127.0.0.1:45463
+1488741707086	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oetfOq8cbqkY
+1488741707088	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488741707111	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46479
+1488741708762	Marionette	INFO	Listening on port 46479
+1488741909919	geckodriver	INFO	Listening on 127.0.0.1:44265
+1488741911082	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oTbMMUWC5IiW
+1488741911083	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488741911087	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36783
+1488741912387	Marionette	INFO	Listening on port 36783
+1488742006429	geckodriver	INFO	Listening on 127.0.0.1:60517
+1488742007590	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jvhMVOux2hAJ
+1488742007591	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488742007595	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37729
+1488742008980	Marionette	INFO	Listening on port 37729
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 522: TypeError: this.tablesData[table] is undefined
