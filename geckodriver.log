@@ -14,3 +14,11 @@
 1488742007595	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37729
 1488742008980	Marionette	INFO	Listening on port 37729
 JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 522: TypeError: this.tablesData[table] is undefined
+1488779475043	geckodriver	INFO	Listening on 127.0.0.1:36835
+1488779476211	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SuNruMmDSiRe
+1488779476213	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488779476217	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33405
+1488779477484	Marionette	INFO	Listening on port 33405
+1488779481771	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 18301] ###!!! ABORT: Aborting on channel error.: file /build/firefox-FILPL9/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 18301] ###!!! ABORT: Aborting on channel error.: file /build/firefox-FILPL9/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
