@@ -22,3 +22,11 @@ JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 
 1488779481771	Marionette	WARN	Using deprecated data structure for setting timeouts
 [Child 18301] ###!!! ABORT: Aborting on channel error.: file /build/firefox-FILPL9/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
 [Child 18301] ###!!! ABORT: Aborting on channel error.: file /build/firefox-FILPL9/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488781227317	geckodriver	INFO	Listening on 127.0.0.1:38051
+1488781228480	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3r7Q3LYnRGpx
+1488781228481	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488781228485	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45693
+1488781229837	Marionette	INFO	Listening on port 45693
+1488781233935	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 19695] ###!!! ABORT: Aborting on channel error.: file /build/firefox-FILPL9/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 19695] ###!!! ABORT: Aborting on channel error.: file /build/firefox-FILPL9/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
